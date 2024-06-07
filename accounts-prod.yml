@@ -1,0 +1,11 @@
+build:
+  version: v22342.0
+
+accounts:
+  manaqger: vigneshwaran
+  contactdeatils:
+   phone: +071231231
+   email: vignesh619waranprod@gamil.com
+  branch: 
+    - vadapalani
+    - porur
