@@ -1,0 +1,11 @@
+build:
+  version: v22.0
+
+accounts:
+  manaqger: vigneshwaran card dept
+  contactdeatils:
+   phone: +07123123123
+   email: vignesh619warancardprod@gamil.com
+  branch: 
+    - vadapalani
+    - porur
