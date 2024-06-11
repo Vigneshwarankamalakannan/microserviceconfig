@@ -1,10 +1,10 @@
 build:
-  version: v22342.0
+  version: v2222342.0
 
 accounts:
-  manager: vigneshwaran kamalakannan
+  manager: vigneshwaran kam
   contactdeatils:
-   phone: +071231231
+   phone: +071231231345
    email: "{cipher}df79b270368d83f09a16a9034e855d6a9bc69eb81de80a6cd8d4b13fdbfc72d7b6766b4941fac73c088c8e7d380698ab"
   branch: 
     - vadapalani
