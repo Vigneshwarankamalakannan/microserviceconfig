@@ -1,4 +1,4 @@
-build:
+application:
   version: v22.0
 
 accounts:
